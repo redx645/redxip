@@ -14,8 +14,8 @@ pkg install python3
 ### Usage Tool
 ```
 git clone https://github.com/redx645/redxip.git
-cd telegram-info
-python UserInfo@REDX_64.py
+cd redxip
+python redx.tracker.py
 ```
 <br>
 <h3><b><i>🤠 Devoloper Channels :</i></b></h3>
